@@ -1,0 +1,29 @@
+/* src/components/AdminDashboard.css */
+.admin-dashboard {
+    margin: 20px 0;
+  }
+  
+  .admin-dashboard h2 {
+    margin-bottom: 15px;
+  }
+  
+  .admin-dashboard ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .admin-dashboard li {
+    margin: 15px 0;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+    background-color: #fff;
+  }
+  
+  .admin-dashboard .thumbnail {
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    border-radius: 5px;
+  }
+  

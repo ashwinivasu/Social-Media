@@ -1,0 +1,41 @@
+/* src/components/UserForm.css */
+.user-form {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 0;
+  }
+  
+  .user-form h2 {
+    margin-bottom: 15px;
+  }
+  
+  .user-form div {
+    margin-bottom: 10px;
+  }
+  
+  .user-form label {
+    font-weight: bold;
+  }
+  
+  .user-form input[type="text"],
+  .user-form input[type="file"] {
+    padding: 8px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  .user-form button {
+    padding: 10px;
+    background-color: #28a745;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .user-form button:hover {
+    background-color: #218838;
+  }
+  

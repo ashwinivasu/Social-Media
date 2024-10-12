@@ -1,0 +1,24 @@
+/* src/components/SuccessPage.css */
+.success-page {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  .success-page h2 {
+    color: #28a745;
+  }
+  
+  .success-page button {
+    margin-top: 10px;
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .success-page button:hover {
+    background-color: #0056b3;
+  }
+  
